@@ -1,5 +1,5 @@
-# SelfDestruct
-Tutorial and program
+# Disclaimer  
+Read it
 
 !!WARNING!!
 
