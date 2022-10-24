@@ -1,0 +1,6 @@
+1. download and run process hacker
+2. go to javaw.exe
+3. click on inject .dll and inject "freetype.dll" (IF YOU'RE USING BADLION OR LUNAR YOU DON'T NEED TO INJECT THIS)
+4. inject "eternal_internal.dll"
+5. click insert to open or close gui
+6. enjoy!
