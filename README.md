@@ -11,4 +11,4 @@ rename some files to .exe or to .zip (.rar)
 
 h = do not rename. it's correct
 
-Loader = Whiteout (do not use)
+Loader = Whiteout 
